@@ -1,0 +1,23 @@
+* {
+    border: 1px solid pink;
+}
+
+.container {
+    width: 970px;
+    background-color: darkorchid;
+}
+
+    header {
+       background-color: white;
+
+    }
+    .container header h1 {
+        display: inline-block;
+        width: 150px;
+
+    }
+
+    .container header h2 {
+        display: inline-block;
+        margin-left: 400px;
+    }
