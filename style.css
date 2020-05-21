@@ -1,45 +1,4 @@
-/* * {
-    border: 1px solid pink;
+* {
+    margin: 0px;
+    padding: 0px;
 }
-
-body {
-    
-    
-}
-.container {
-    
-    background-color: darkorchid;
-    padding: 20px;
-
-}
-
-    header {
-       background-color: white;
-     
-    }
-
-    header h1 {
-        display: inline-block;
-        width: 150px;
-
-    }
-
-    header h2 {
-        display: inline-block;
-        margin-left: 400px;
-    }
-    img {
-        height: 270px;
-        width: 400px;
-        display: inline-block;
-        vertical-align: top;
-    }
-
-    .about {
-        height: 270px;
-        width: 450px;
-        display: inline-block;
-        vertical-align: top;
-        margin-left: 20px;
-    }
-     */
