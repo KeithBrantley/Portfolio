@@ -43,12 +43,9 @@ header {
             display: inline-block;
             vertical-align: top;
         }
-
-        #projects-section {
-            height: 60%;
-            background-color: pink;
+        main div img {
+            width: 50px;
         }
-
     footer {
         height: 75px;
         background-color: white;
